@@ -1,5 +1,5 @@
 # Español dos
-Español dos Es la nueva versión del idioma "Español uno" (también conocido como "Español").
+Español dos es la nueva versión del idioma "Español uno" (también conocido como "Español").
 
 ---
 ## ¿Por qué?
@@ -209,10 +209,10 @@ La letra X (x) no es estúpida, pero es supérflua. En español dos esta letra e
 Por ejemplo:
  * Extremo
 
-Ni siquiera las palabras derivadas de extremo (como extremidad o extremos) usan x. De hecho no en todos los contextos se escribe la palabra extremo de esta manera. En los siguientes contextos la palabra extremo se escribirá como "ekstremo":
+Ni siquiera las palabras derivadas de extremo (como extremidad o extremos) usan x. De hecho no en todos los contextos se escribe la palabra extremo de esta manera. En los siguientes contextos la palabra extremo se escribirá como "ecstremo":
 
 * Si la persona que lo usa tiene más de 20 años (excepto si es una cita, en la que esa persona en el momento de decirlo tenía menos de 20 años)
-* Si se refiere a algo que no sea extremo (por ejemplo, el extremo de un palo). Como guía, si el significado de la frase cambia al sustituir "extremo" por "épico" o "radical", entonces se escribirá "ekstremo"
+* Si se refiere a algo que no sea extremo (por ejemplo, el extremo de un palo). Como guía, si el significado de la frase cambia al sustituir "extremo" por "épico" o "radical", entonces se escribirá "ecstremo"
 
 ## Y (y)
 La letra Y (y) es estúpida. Esta letra no existe en español dos.
