@@ -1,5 +1,5 @@
 # Español dos
-Español dos Es la nueva versión del idioma "Español uno", o como se le suele llamar comunmente, "Español".
+Español dos Es la nueva versión del idioma "Español uno" (también conocido como "Español").
 
 ---
 ## ¿Por qué?
@@ -23,7 +23,7 @@ Lo primero de todo es mencionar lo que no cambia.
 
 Ni la gramática, ni la sintaxis, ni ninguna otra regla que no se pueda describir como "este sonido se escribe así". Las tildes tampoco cambian, las tildes molan y te permiten diferenciar entre "Le pego a mi tio juan" y "Le pegó a mi tío juan". Yo a mi tío Juan le quiero mucho y nunca le pegaría. Sin embargo alguien me podría malinterpretar si no existiesen las tildes.
 
-Hay una excepción, a partir de ahora las palabra "tilde" y "tildes" se escriben como "tílde" y "tíldes". ¿Por qué? Porque mientras las escribía me he dado cuenta que la palabra "tilde" no tenga una tilde.
+Hay una excepción, a partir de ahora las palabra "tilde" y "tildes" se escriben como "tílde" y "tíldes". ¿Por qué? Porque mientras las escribía me he dado cuenta que la palabra "tilde" no tenga una tilde no tiene sentido.
 
 Dicho esto, a definir cada letra. A la hora de mostrar las diferencias para aquellas letras que se escriban distinto en español dos que en español uno, se mostrará ~~tachado~~ en español uno y en **negrita** en español dos. El resto de las letras se escribirán igual que en español uno.
 
