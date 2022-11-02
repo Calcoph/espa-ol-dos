@@ -193,7 +193,7 @@ Por ejemplo:
 La letra U (u) se escribe cuando el sonido de la palabra corresponde a "u".
 
 Por ejemplo:
- * Mujir
+ * Mugir
  * Alumbrar
  * Zulú
 
