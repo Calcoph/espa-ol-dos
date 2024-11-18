@@ -52,7 +52,7 @@ Por ejemplo:
  * Casa
  * **C**ilo ~~K~~ilo
  * **C**eso ~~Qu~~eso
- * Cacahuete
+ * Cacauete
 
 ## D (d)
 La letra D (d) se escribe cuando el sonido de la palabra corresponde a "d".
@@ -143,7 +143,7 @@ La letra Ñ (ñ) se escribe cuando el sonido de la palabra corresponde a "ñ".
 Por ejemplo:
  * Español
  * Año
- * Hermitaño
+ * Ermitaño
 
 ## O (o)
 La letra O (o) se escribe cuando el sonido de la palabra corresponde a "o".
@@ -170,8 +170,8 @@ Esta es la única letra que tiene una pronunciación contextual. Al igual que en
 
 Por ejemplo:
  * Ramón
- * Herramienta
- * Hamburguesa
+ * Erramienta
+ * Amburguesa
 
 ## S (s)
 La letra S (s) se escribe cuando el sonido de la palabra corresponde a "s".
@@ -222,7 +222,7 @@ La letra Z (z) se escribe cuando el sonido de la palabra corresponde a "z".
 
 Por ejemplo:
  * Zapato
- * Ha**z**er Ha~~c~~er
+ * A**z**er Ha~~c~~er
  * Mezclar
 
 # Este documento no ha terminado de escribirse, pues faltan los siguientes apartados:
